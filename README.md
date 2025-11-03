@@ -19,4 +19,5 @@ URL: https://startbootstrap.com/theme/landing-page
 - JavaScript
 
 ## Grupo
-[Tu grupo y horario]
+4BTI
+
